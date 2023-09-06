@@ -1,0 +1,3 @@
+To run C++ code in windows
+- g++ -o program file_name.cpp
+- .\program.exe
